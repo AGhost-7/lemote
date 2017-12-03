@@ -15,3 +15,5 @@ autoconf
 make
 sudo make install
 popd
+
+sudo apt-get install python3-cairo -y
